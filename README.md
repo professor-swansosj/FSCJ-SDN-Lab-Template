@@ -1,2 +1,2 @@
 # FSCJ-SDN-Lab-Template
-Lab 2 for SDN
+Template for Labs for Florida State College of Jacksonville Software Defined Networking
